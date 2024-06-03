@@ -14,7 +14,8 @@ _G.CrewSettings = {
         "aasamuupab",
         "nuiupbabai",
         "vigilganteng",
-        "im_rampage12"
+        "im_rampage12",
+        "KaitunSDH19_X14870d"
     }
 }
 getgenv().Key = "MARU_NewM-HMJNQ0M3S5OFQP4"
