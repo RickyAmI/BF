@@ -16,6 +16,6 @@ _G.CrewSettings = {
         "ffrabbzuza"
     }
 }
-getgenv().Key = "MARU_NewM-HMJNQ0M3S5OFQP4"
-getgenv().id = "1197947995338059917"
+getgenv().Key = "MARU_NewM-773H6O6456Z3C1T"
+getgenv().id = "1021008326391255101"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MasterPClient/main/LoaderxP.lua"))()
