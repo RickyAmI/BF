@@ -4,6 +4,7 @@ _G.CrewSettings = {
     ["CrewMember"] = { -- ชื่อรหัสที่จะทำใส่ได้ 11 ตัว
         "zeiterza2402",
         "afz_peti",
+        "hanfbauer1o",
         "sv77sJod",
         "IKsNkGt",
         "Il_sFSh",
@@ -11,8 +12,7 @@ _G.CrewSettings = {
         "tSaCj3Di6",
         "byfshZQ7",
         "tyN5_B7n",
-        "b6LhHG3FD",
-        "Ij7onhfp8n"
+        "b6LhHG3FD"
     }
 }
 getgenv().Key = "MARU_NewM-Q9LJSATL2YUBO80"
